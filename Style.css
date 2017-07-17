@@ -1,0 +1,11 @@
+﻿#firstHeading {
+    color:darkblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-color:grey;
+}
+.introText{
+    color:papayawhip;
+    font-family: 'Source Sans Pro', sans-serif;
+}
